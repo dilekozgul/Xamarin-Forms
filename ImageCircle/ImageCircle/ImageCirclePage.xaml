@@ -9,6 +9,7 @@
             <Grid HeightRequest="300" WidthRequest="300" HorizontalOptions="Center" VerticalOptions="CenterAndExpand">
                 <controls:CircleImage Source="xamarin.png" Aspect="AspectFill"  BorderThickness="10" BorderColor="Black" HeightRequest="200" WidthRequest="200" HorizontalOptions="Center" Grid.Column="0" Grid.Row="0"></controls:CircleImage>
 
+                
             </Grid>
         </StackLayout>
     </ContentPage.Content>
